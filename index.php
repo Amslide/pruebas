@@ -2,7 +2,6 @@
 <?php
     require_once "views/header.php";
 ?>
-
 <!-- MAIN CONTENT -->
   <!-- TITULO Y RUTAS -->
   <div class="content-wrapper">
